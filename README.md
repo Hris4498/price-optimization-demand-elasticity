@@ -118,4 +118,4 @@ Deployment: Streamlit or Flask for creating a web-based application to interact 
 5. Example Use Case
 Suppose a liquor store wants to determine the optimal price for a popular brand of whiskey to maximize revenue. Using historical sales data and price elasticity models, the store can predict how changes in price will affect sales volume. By applying optimization techniques, the store can find the price point that maximizes revenue, helping them set competitive prices and improve profitability.
 
-This project will provide valuable insights into pricing strategies and demand management, offering a practical application of machine learning in the retail sector. If you need more detailed guidance on any specific part of this project, just let me know!
+This project will provide valuable insights into pricing strategies and demand management, offering a practical application of machine learning in the retail sector.
